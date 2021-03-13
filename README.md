@@ -1,1 +1,1 @@
-# Projeto exmeplo de Blog
+# Projeto exemplo de Blog
